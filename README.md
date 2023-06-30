@@ -1,2 +1,2 @@
 # html-MyResumeCapstone
-Build online resume from scratch!
+Build an online resume from scratch!
