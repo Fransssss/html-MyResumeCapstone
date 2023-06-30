@@ -1,0 +1,18 @@
+* {
+  text-align: center;
+  background-color: #cef8cb;
+}
+
+h1 {
+  color: white;
+  background-color: #cde2ba;
+}
+
+h2 {
+  color: white;
+  background-color: #dee7c6;
+}
+
+.me {
+  height: 300px;
+}
